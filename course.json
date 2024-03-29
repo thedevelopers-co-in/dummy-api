@@ -1,0 +1,25 @@
+{
+  "courses": [
+    {
+      "courseId": "CS101",
+      "instructorName": "Dr. Anjali Khanna",
+      "courseName": "Advanced Data Structures and Algorithms",
+      "tags": ["data structures", "algorithms", "computer science"],
+      "students": [{ "name": "Prakhar Sharma" }, { "name": "Mukul Patel" }]
+    },
+    {
+      "courseId": "ML201",
+      "instructorName": "Prof. Rahul Singh",
+      "courseName": "Machine Learning Fundamentals",
+      "tags": ["machine learning", "ai", "data science"],
+      "students": [{ "name": "Aishwarya Gupta" }, { "name": "Neha Kumar" }]
+    },
+    {
+      "courseId": "CS102",
+      "instructorName": "Prof. Rahul Singh",
+      "courseName": "Machine Learning Fundamentals",
+      "tags": ["machine learning", "ai", "data science"],
+      "students": [{ "name": "Aishwarya Gupta" }, { "name": "Neha Kumar" }]
+    }
+  ]
+}
